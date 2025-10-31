@@ -113,7 +113,7 @@ Once the server is running, you can access:
 | `POST` | `/analyze/` | Upload and analyze image brightness |
 | `GET` | `/download/{filename}` | Download processed images |
 | `GET` | `/results` | View analysis history |
-| `GET` | `/health` | Check system status |
+
 
 ### Example Usage
 
